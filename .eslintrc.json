@@ -60,7 +60,7 @@
             "error",
             { "devDependencies": ["**/*.spec.js"] }
         ],
-        "prettier/prettier": "error",
+        "prettier/prettier": "error"
     },
     "settings": {
         "import/resolver": {
