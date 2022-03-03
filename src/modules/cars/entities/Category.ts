@@ -9,7 +9,7 @@ class Category {
   @Column("varchar")
   name: string;
 
-  @Column()
+  @Column("varchar")
   description: string;
 
   @CreateDateColumn()
