@@ -5,3 +5,5 @@ tmp/
 
 yarn-error.*
 ormconfig.json
+
+.env
