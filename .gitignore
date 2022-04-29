@@ -1,9 +1,13 @@
 node_modules
 dist
 .vscode
-tmp/
+tmp/*
+!tmp/.gitkeep
 
 yarn-error.*
 ormconfig.json
 
 .env
+dist
+
+coverage
